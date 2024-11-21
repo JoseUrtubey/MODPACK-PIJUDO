@@ -1,0 +1,25 @@
+{
+	"enabled": true,
+	"showPercentageText": false,
+	"showSelfDamage": false,
+	"maxDistance": 16.0,
+	"velocityMultiplier": 0.949999988079071,
+	"gravityStrength": 0.800000011920929,
+	"lifeTime": 30,
+	"randomVelocityXZ": true,
+	"velocity": {
+		"field_1352": 0.5,
+		"field_1351": 0.25,
+		"field_1350": 0.5
+	},
+	"offset": {
+		"field_1352": 0.0,
+		"field_1351": 0.25,
+		"field_1350": 0.0
+	},
+	"scale": 1.0,
+	"drawShadow": true,
+	"lowestDamageColor": "#FFFF0100",
+	"highestDamageColor": "#FF01FE01",
+	"healColor": "#FFCF39CE"
+}

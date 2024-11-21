@@ -1,5 +1,4 @@
 .fabric
-config
 crash-reports
 data
 defaultconfigs
@@ -17,3 +16,4 @@ options.txt
 patchouli_data.json
 usercache.json
 usernamecache.json
+screenshots
